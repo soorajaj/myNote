@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00796B</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <!--
+        <color name="colorAccent">#0095ea</color>
+    -->
+    <color name="shadow">#46566A65</color>
+    <color name="colorAccent">#129A98</color>
+    <color name="colorBlueButton">#0095ea</color>
+    <color name="colorBlueButton_new">#87CEFA</color>
+    <color name="colorBlueButtonBorder">#10689a</color>
+    <color name="colorLiteBlue">#00a7ec</color>
+    <color name="colorLiteGreen">#9ab034</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackgroundGray">#E0E0E0</color>
+    <color name="colorGrayDark">#666666</color>
+    <color name="colorGreenButton">#7ba531</color>
+    <color name="colorGreenButtonBorder">#60851e</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorOrange">#FFA500</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+
+    <color name="yellow_text">#d08b20</color>
+    <color name="green_text">#9ab034</color>
+    <color name="blue_text">#00a7ec</color>
+    <color name="flag_orange">#f77309</color>
+    <color name="flag_green"> #5b9803</color>
+    <color name="tabbar_green"> #69b70c</color>
+    <color name="blue_shop">#0095ea</color>
+    <color name="dark_blue_new">#1A45A5</color>
+    <color name="grey_new">#E5EFF0</color>
+    <color name="green_teal_new">#129A98</color>
+    <color name="green_teal_new_transparent">#22129A98</color>
+    <color name="grey_lines_new">#A3A3A3</color>
+
+    <color name="share_icon">#45b4f3</color>
+    <color name="heart_symbol">#e333dd</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorgray">#003366</color>
+    <color name="white">#fff</color>
+    <color name="darkgray">#37474f</color>
+    <color name="purple">#9C27B0</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="colorviewbg">#E0E0E0</color>
+    <color name="blue">#66c0cf</color>
+
+    <color name="facebook_color"> #3765a3</color>
+    <color name="twitter_color">#00aced</color>
+    <color name="mail_icon_color">#dd4c64</color>
+    <color name="yellow_star">#FFFF00</color>
+
+    <color name="blue_slip_high">#ade7ff</color>
+    <color name="yellow_slip_high">#ade7ffff</color>
+    <color name="blue_slip_low">#e0f6ff</color>
+    <color name="radio_grey">#F6F6F6</color>
+    <color name="colorgraybg">#cccccc</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_item_margin_top">10dp</dimen>
+    <dimen name="bottom_tab_height">60dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="layout_paddiing_8">8dp</dimen>
+    <dimen name="text_size_order">12sp</dimen>
+    <dimen name="text_size_total">14sp</dimen>
+    <dimen name="list_item_height">40dp</dimen>
+    <dimen name="list_item_padding_sides">8dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="state_width">400dp</dimen>
+</resources>
